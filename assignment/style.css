@@ -20,5 +20,9 @@ p {
     font-style: italic;
 }
 /* Put a border around your image */
-
+img {
+    border: solid 5px;
+    height: 200px;
+    width: 200px;
+}
 /* Change the font-family of your list */
