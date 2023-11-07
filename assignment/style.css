@@ -26,3 +26,6 @@ img {
     width: 200px;
 }
 /* Change the font-family of your list */
+ul {
+    font-family: 'Times New Roman', sans-serif;
+}
